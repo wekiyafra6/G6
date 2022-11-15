@@ -1,4 +1,3 @@
-# G6
 create database if not exists COREX;
 USE COREX;
 
